@@ -155,16 +155,16 @@ Nathan Rumsey - nathan.s.rumsey@gmail.com
 
 Project Link: [https://github.com/n8srumsey/ISEF-2020-Phenology](https://github.com/n8srumsey/ISEF-2020-Phenology)
 
-[contributors-shield]: https://img.shields.io/github/contributors/n8srumsey/ISEF-2020-Phenology.svg?style=for-the-badge
-[contributors-url]: https://github.com/n8srumsey/ISEF-2020-Phenology/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/n8srumsey/Phenology-ML-Analytics.svg?style=for-the-badge
+[contributors-url]: https://github.com/n8srumsey/Phenology-ML-Analytics/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/n8srumsey/ISEF-2020-Phenology.svg?style=for-the-badge
-[forks-url]: https://github.com/n8srumsey/ISEF-2020-Phenology/network/members
-[stars-shield]: https://img.shields.io/github/stars/n8srumsey/ISEF-2020-Phenology.svg?style=for-the-badge
-[stars-url]: https://github.com/n8srumsey/ISEF-2020-Phenology/stargazers
-[issues-shield]: https://img.shields.io/github/issues/n8srumsey/ISEF-2020-Phenology.svg?style=for-the-badge
-[issues-url]: https://github.com/n8srumsey/ISEF-2020-Phenology/issues
-[license-shield]: https://img.shields.io/github/license/n8srumsey/ISEF-2020-Phenology?label=license&style=for-the-badge
-[license-url]: https://github.com/n8srumsey/ISEF-2020-Phenology/blob/master/LICENSE.txt
+[forks-url]: https://github.com/n8srumsey/Phenology-ML-Analytics/network/members
+[stars-shield]: https://img.shields.io/github/stars/n8srumsey/Phenology-ML-Analytics.svg?style=for-the-badge
+[stars-url]: https://github.com/n8srumsey/Phenology-ML-Analytics/stargazers
+[issues-shield]: https://img.shields.io/github/issues/n8srumsey/Phenology-ML-Analytics.svg?style=for-the-badge
+[issues-url]: https://github.com/n8srumsey/Phenology-ML-Analytics/issues
+[license-shield]: https://img.shields.io/github/license/n8srumsey/Phenology-ML-Analytics?label=license&style=for-the-badge
+[license-url]: https://github.com/n8srumsey/Phenology-ML-Analytics/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nathan-rumsey-66ab1320a/
 
