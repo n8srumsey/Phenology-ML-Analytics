@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/n8srumsey/ISEF-2020-Phenology">
+  <a href="https://github.com/n8srumsey/Phenology-ML-Analytics">
     <img src="readme_images/logo.png" alt="Analytics System" width=80>
   </a>
 
@@ -20,9 +20,9 @@
     <i>A suite of analysis tools using machine learning to study the trends and pattern in phenology of deciduous forests.</i>
     <br />
     <br />
-    <a href="https://github.com/n8srumsey/ISEF-2020-Phenology/issues">Report Bug</a>
+    <a href="https://github.com/n8srumsey/Phenology-ML-Analytics/issues">Report Bug</a>
     ·
-    <a href="https://github.com/n8srumsey/ISEF-2020-Phenology/issues">Request Feature</a>
+    <a href="https://github.com/n8srumsey/Phenology-ML-Analytics/issues">Request Feature</a>
   </p>
 <br />
 </p>
